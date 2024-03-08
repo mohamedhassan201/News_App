@@ -1,1 +1,1 @@
-# Rahlity_App
+# News app
